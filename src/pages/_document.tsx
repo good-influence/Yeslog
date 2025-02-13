@@ -6,6 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang={CONFIG.lang}>
         <Head>
+          <meta name="google-site-verification" content="STwODLQPrD-UDsLxCb22uj_2l1DsJt7Txqw53F0Pfa8" />
           <link rel="icon" href="/favicon.ico" />
           <link
             rel="apple-touch-icon"
